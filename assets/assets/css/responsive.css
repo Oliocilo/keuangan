@@ -1,0 +1,113 @@
+@media only screen and (max-width: 480px) {
+    .main-body .page-wrapper {
+
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.main-body .page-wrapper {
+		padding: 0px;
+	}
+
+	.pcoded-inner-content{
+		padding: 0px;
+	}
+
+	.cardbook{
+		padding: 10px !important;
+		margin-bottom :0px !important;
+	}
+
+
+
+	.titlebook{
+		font-size: 18px !important;
+	}
+
+	.info-saldo {
+		text-align: left !important;
+/*		background: #ddd;*/
+		margin-top: 0px;
+		padding: 10px;
+	}
+
+	.cardinfosaldo{
+		margin-bottom: 15px !important;
+	}
+
+	.filterCard{
+		display: none;
+	}
+
+
+    .cardbodytbale{
+    	padding: 0px;
+    }
+
+    .dataTables_length {
+    	float: left;
+    }
+
+    .dataTables_length {
+        float: none; /* Remove the float to center it or apply other styles */
+        text-align: center; /* Center the dropdown */
+        margin: 10px auto; /* Add margin for spacing */
+    }
+
+    .selectsmall {
+    	padding: 5px; /* Padding lebih kecil */
+    	font-size: 12px; /* Ukuran font lebih kecil */
+    	border-radius: 3px; /* Sudut yang melengkung pada border */
+    	width: 100px; /* Lebar elemen <select> */
+    }
+
+    table.dataTable thead {
+        display: none;
+    }
+
+    table.dataTable td{
+    	vertical-align: middle !important;
+    }
+
+    .bggreen {
+    	background: #9ad99a;
+    }
+
+   .btn-sm {
+    padding: 3px 5px;
+    line-height: 16px;
+    font-size: 11px;
+}
+
+.wh-30 {
+	width: 30px;
+	vertical-align: middle;
+	font-size: 18px;
+	background: #9ad99a;
+}
+
+.wh-50 {
+	width: 50px;
+	vertical-align: middle;
+	font-size: 18px;
+	background: #9ad99a;
+}
+
+.longkategorifirst {
+	width: 100%;
+	vertical-align: middle;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.footButton .btn{
+	border-radius: 0px;
+	padding: 20px;
+}
+
+   
+
+
+
+}
+
