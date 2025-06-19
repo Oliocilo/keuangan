@@ -6,7 +6,7 @@
         <div class="login-content">
             <form  id="formajax" action="<?= base_url('processLogin')?>">
                 <img src="<?= base_url('assets') ?>/assets/images/logo.png">
-                <h2 class="title">Welcome</h2>
+                <h2 class="title">Welcome der</h2>
                 <div class="input-div one">
                     <div class="i">
                         <i class="fas fa-user"></i>
